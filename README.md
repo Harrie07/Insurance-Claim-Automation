@@ -1,5 +1,4 @@
-# Insurance-Claim-Automation
-AI-powered health insurance claim processing system
+
 # 🏥 Insurance Claim Automation System
 
 ![Demo Screenshot](screenshot.png) <!-- Optional but recommended -->
