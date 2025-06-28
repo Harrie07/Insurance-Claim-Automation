@@ -1,0 +1,7 @@
+flask
+PyPDF2
+scikit-learn
+requests
+transformers
+torch
+pyngrok  # Only if you used this
