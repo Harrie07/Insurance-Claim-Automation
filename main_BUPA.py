@@ -11,7 +11,7 @@ import time
 app = Flask(__name__)
 
 # Free API tokens (get from Hugging Face)
-HF_TOKEN = "your api key"
+HF_TOKEN = os.environ.get('HF_TOKEN', 'your api key')
 
 # Explicitly specify model for local fallback
 try:
@@ -510,6 +510,5 @@ Amount payable - 3150"""
     return {'disease': diagnosis, 'expense': expense}
 
 if __name__ == '__main__':
-    # Run test before starting the app
-    test_extraction()
-    app.run(host='0.0.0.0', port=8081, debug=True)
+    port = int(os.environ.get('PORT', 8081))
+    app.run(host='0.0.0.0', port=port, debug=False)
