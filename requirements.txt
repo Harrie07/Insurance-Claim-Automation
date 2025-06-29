@@ -1,7 +1,16 @@
-flask
+langchain_community
+easyocr
+pdf2image
+numpy
+matplotlib
+langchain_openai
+python-dotenv
 PyPDF2
+flask
+opencv-python
+tiktoken
 scikit-learn
 requests
 transformers
 torch
-pyngrok  # Only if you used this
+gunicorn
