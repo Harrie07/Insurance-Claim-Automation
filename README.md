@@ -4,7 +4,7 @@
 [![Flask](https://img.shields.io/badge/Flask-2.3+-green.svg)](https://flask.palletsprojects.com/)
 [![AI](https://img.shields.io/badge/AI-Powered-orange.svg)](https://huggingface.co/)
 
-> **Transforming Insurance Claim Processing with AI-Driven Automation**
+> **Transforming Insurance Claim Processing with GenAI-Driven Automation**
 
 ## 🎯 Problem Statement
 
