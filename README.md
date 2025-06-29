@@ -22,12 +22,6 @@ Our AI-powered system revolutionizes claim processing by:
 - ✅ **Real-time fraud detection** identifying suspicious patterns
 - ✅ **100+ policy exclusion rules** with perfect compliance
 
-## 🏗️ Technical Architecture
-
-```
-https://github.com/Harrie07/Insurance-Claim-Automation/blob/main/image.png
-
-```
 
 ## 🔧 Technology Stack
 
