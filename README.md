@@ -25,7 +25,7 @@ Our AI-powered system revolutionizes claim processing by:
 ## 🏗️ Technical Architecture
 
 ```
-
+https://github.com/Harrie07/Insurance-Claim-Automation/blob/main/image.png
 
 ```
 
